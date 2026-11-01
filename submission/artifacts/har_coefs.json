@@ -1,0 +1,9 @@
+{
+  "intercept": 0.0,
+  "coef": {
+    "f1": 0.0,
+    "f5": 1.0,
+    "f22": 0.0
+  },
+  "note": "persistence"
+}
