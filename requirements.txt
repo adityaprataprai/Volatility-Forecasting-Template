@@ -1,0 +1,6 @@
+numpy>=1.26
+pandas>=2.2
+pyarrow>=15
+scikit-learn>=1.4
+# add what you need (lightgbm, torch, ...). Pin versions, e.g. lightgbm==4.5.0.
+# Inference must work OFFLINE on CPU: no downloads at predict time.
